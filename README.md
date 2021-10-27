@@ -4,3 +4,4 @@
 
 - [Sahitya Roy](https://github.com/SahityaRoy)
 - <a href="https://github.com/subhamengine">SubhamSharma</a>
+- [Pranay Gupta](https://github.com/thepranaygupta)
